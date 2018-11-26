@@ -1,0 +1,15 @@
+All60epochdropout0_05nodes100
+
+losstest 1.298
+costtest 1.4511
+accuracytest 54.55
+accuracy validation 55.8
+at epoch 14 maybe
+
+All60epochdropout0_1nodes100
+
+losstest 1.31
+costtest 1.4622
+accuracytest 53.8
+accuracy validation 55.4
+at epoch 17 maybe

@@ -1,0 +1,11 @@
+All batches
+loss test 1.355248
+cost test 1.486145
+Accuracy test 52.05
+Accuracy validation 52.7
+eta 0.228590
+lamda 0.0007889
+nbatch 100
+epochs 30
+eta decaying on
+rho 0.9
